@@ -1,4 +1,9 @@
-# openam-auth-sample
+# About openam-auth-ilearn
+This component serves as the authentication module for the ILearn component in the National Open University of Nigeria (NOUN) ecosystem of applications. ILearn provided by Emerging Platforms is an e-Learning system providing 
+e-Learning services to students of the university. This component enables the ILearn which is one of the clients in the OpenAM system set up to provide Single Sign-On feature for all components in the NOUN ecosystem
+
+
+# Technical Details
 
 *An OpenAM Sample Custom Authentication Module*
 
